@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome
+
+This is a collection of random personal projects that I've been working on. Or issue reproductions to assist in fixing bugs in various open source software that I use.
 
 <!--
 **kgladfelder/kgladfelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
